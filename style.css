@@ -7,5 +7,17 @@ body{
 .cabecalho{
 
     display: flex;
+align-items: center;
+justify-content: space-beteen;
 }
 
+
+
+  .cabecalho-imagem{
+width:200px;
+height:200px;
+border-radius:50%;
+padding:20px;
+
+
+}
