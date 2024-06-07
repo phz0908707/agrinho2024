@@ -1,23 +1,26 @@
 body{
 
-    background-color: rgb(58, 3, 131);
-color: whitesmoke;
+  background-color: rgb(183, 176, 176);
+
 }
 
 .cabecalho{
-
-    display: flex;
-align-items: center;
-justify-content: space-beteen;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
+.cabecalho-imagem{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+padding: 20px;
 
+}
 
-  .cabecalho-imagem{
-width:200px;
-height:200px;
-border-radius:50%;
-padding:20px;
+.cabecalho-menu-listaitem{
 
-
+  display: inline;
+  text-transform: uppercase;
+  margin: 30px;
 }
