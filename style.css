@@ -11,9 +11,8 @@ body{
 }
 
 .cabecalho-imagem{
-width: 200px;
-height: 200px;
-border-radius: 50%;
+width: 100%;
+height: 100%;
 padding: 20px;
 
 }
